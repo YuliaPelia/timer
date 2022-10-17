@@ -1,7 +1,7 @@
 # timer
 
-id - timer
-deadline - final time
+id - timer;
+deadline - final time;
 1. I am creating a function that will allocate the difference between the deadline (end date) and the present time, 
 the function will accept the end time
 Data.parse - turns a string into a number, in it we will get the number of milliseconds that will be in our final time, 
